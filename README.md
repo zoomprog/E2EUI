@@ -7,8 +7,8 @@
 1. Клонируйте репозиторий:
 
     ```sh
-    git clone https://github.com/yourusername/my_selenium_project.git
-    cd my_selenium_project
+    git clone https://github.com/zoomprog/E2EUI.git
+    cd E2EUI
     ```
 
 2. Установите зависимости:
